@@ -50,12 +50,6 @@ This project implements a **Password Authentication System** using **FreeRTOS** 
 - Implement binary semaphore for shared resources in complex systems
 
 ---
-
-## 📜 License
-Licensed under **MIT License**.
-
----
-
 ### ✨ Author
-**Your Name**  
+**Vasanth Nayak**  
 Embedded Systems Developer | RTOS Enthusiast

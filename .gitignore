@@ -1,0 +1,25 @@
+# Build output
+Debug/
+Release/
+.build/
+
+# Eclipse workspace settings
+.settings/
+.metadata/
+
+# Compiled files
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+
+# Temp and backup files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Optional
+*.launch
